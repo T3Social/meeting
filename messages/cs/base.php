@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '',
+  '<strong>Shift</strong> agenda entry to new meeting' => '',
+  'Adds a meeting manager to this space.' => 'Přidat organizátora schůzek do tohoto prostoru.',
+  'Agenda Entry' => 'Položka agendy',
+  'Back to overview' => 'Zpět na přehled',
+  'Delete' => 'Smazat',
+  'Duration' => '',
+  'Duration in <strong>hh:mm</strong> format ' => '',
+  'Edit' => 'Upravit',
+  'Format has to be HOUR : MINUTE' => 'Formát musí být HODINA : MINUTA',
+  'Info message has been sent.' => '',
+  'Meeting' => 'Schůzka',
+  'Meetings' => 'Schůzky',
+  'Move down' => '',
+  'Move up' => '',
+  'Send as message' => '',
+  'Shift to other meeting' => '',
+);

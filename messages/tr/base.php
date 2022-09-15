@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '',
+  '<strong>Shift</strong> agenda entry to new meeting' => '',
+  'Adds a meeting manager to this space.' => '',
+  'Agenda Entry' => '',
+  'Back to overview' => 'Genel bakışa geri dön',
+  'Delete' => 'Sil',
+  'Duration' => 'Süre',
+  'Duration in <strong>hh:mm</strong> format ' => 'Süre biçimi <strong>hh:mm</strong>',
+  'Edit' => 'Düzenle',
+  'Format has to be HOUR : MINUTE' => '',
+  'Info message has been sent.' => '',
+  'Meeting' => 'Toplantı',
+  'Meetings' => 'Toplantılar',
+  'Move down' => '',
+  'Move up' => '',
+  'Send as message' => 'Mesaj olarak gönder',
+  'Shift to other meeting' => 'Diğer toplantıya geç',
+);

@@ -1,0 +1,147 @@
+.meeting-details h1 {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+.meeting-details h2 {
+  font-size: 17px;
+  color: #919191;
+  font-weight: 300;
+  margin-top: 0;
+}
+.meeting-details h1.meeting-item-time-range {
+  font-size: 17px;
+}
+.meeting-details h1.meeting-item-title {
+  font-size: 20px;
+}
+.meeting-details .meeting-item-container {
+  margin-top: 20px;
+  position: relative;
+}
+.meeting-details .meeting-item-container .meeting-item-menu,
+.meeting-details .meeting-item-container .meeting-item-menu a {
+  font-size: 11px;
+  color: #aeaeae;
+}
+.meeting-details .meeting-item-container .meeting-item {
+  position: relative;
+}
+.meeting-details .meeting-item-container .meeting-item .img_margin {
+  margin-left: 3px;
+}
+.meeting-details .meeting-item-container .meeting-item-content {
+  margin-bottom: 5px;
+}
+.meeting-details .meeting-item-container .meeting-item-notes {
+  font-style: italic;
+  border: 1px solid #cecece;
+  margin: 5px;
+  padding: 8px 5px 5px 30px;
+  -webkit-box-shadow: 1px 1px 5px 0px #ededed;
+  -moz-box-shadow: 1px 1px 5px 0px #ededed;
+  box-shadow: 1px 1px 5px 0px #ededed;
+  background-image: url('notes-grid.png');
+}
+.meeting-details .meeting-item-container .meeting-item-notes h1.protocol-title {
+  font-size: 18px;
+}
+.meeting-details .agenda-time-line .agenda-point {
+  margin-top: 6px;
+  margin-left: 20px;
+  width: 14px;
+  height: 14px;
+  font-size:0.8em;
+  display: inline-block;
+  position: absolute;
+}
+
+.meeting-details .markdown-render p {
+  margin: 0;
+}
+.meeting-details .meeting-item-option {
+  position: relative;
+  margin-top: 5px;
+  color: #555555;
+}
+.meeting-details .meeting-item-option .fa {
+  margin-right: 5px;
+}
+.meeting-details .meeting-item-option .meeting-task {
+  padding-bottom: 4px;
+  border-radius: 3px;
+}
+.meeting-details .meeting-item-option .meeting-task .label {
+  padding: 2px 3px 3px 3px;
+}
+.meeting-details .meeting-item-option .task-finished,
+.meeting-details .meeting-item-option .task-finished a {
+  color: #bebebe !important;
+}
+.meeting-details .meeting-item-option .task-finished .task-title,
+.meeting-details .meeting-item-option .task-finished a .task-title {
+  text-decoration: line-through;
+}
+.meeting-details .meeting-item-option .task-finished img,
+.meeting-details .meeting-item-option .task-finished a img {
+  opacity: .3;
+}
+.meeting-details .meeting-item-option .notes-content {
+  padding-right: 30px;
+}
+.meeting-details .edit-link {
+  display: none;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+.meeting-details .edit-area:hover {
+  background: #fff8e0;
+}
+.meeting-details .meeting-information {
+  position: relative;
+}
+.meeting-item-notes-modal .md-editor > textarea {
+  min-height: 300px !important;
+}
+.meeting-item-notes-modal .md-control-fullscreen {
+  display: none;
+}
+.meeting-item-modal .md-editor > textarea {
+  min-height: 200px !important;
+}
+.meeting-item-modal .md-control-fullscreen {
+  display: none;
+}
+.wall-entry-controls,
+.wall-entry-controls a {
+  font-size: 11px;
+  color: #aeaeae !important;
+}
+
+.backgroundInfo {
+    background: #000 none repeat scroll 0 0 !important;
+}
+
+
+
+table.meeting-print {
+    border-spacing: 5px;
+}
+
+table.meeting-print td {
+    padding-bottom:10px;
+}
+
+.print-body {
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.print-body hr {
+    border-color: #606060 !important;
+}
+
+@media print
+{
+    * {-webkit-print-color-adjust:exact;}
+}

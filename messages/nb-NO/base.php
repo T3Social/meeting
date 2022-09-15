@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '<strong>Dupliser</strong> møte',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>Flytt</strong> agenda til nytt møte',
+  'Adds a meeting manager to this space.' => 'Legger til møtebehandler til denne gruppen.',
+  'Agenda Entry' => 'Agenda',
+  'Back to overview' => 'Tilbake til oversikt',
+  'Delete' => 'Slett',
+  'Duration' => 'Varighet',
+  'Duration in <strong>hh:mm</strong> format ' => 'Varighet i formatet <strong>tt:mm</strong>',
+  'Edit' => 'Rediger',
+  'Format has to be HOUR : MINUTE' => 'Formatet må være TIME : MINUTT',
+  'Info message has been sent.' => 'Infomelding er blitt sent',
+  'Meeting' => 'Møte',
+  'Meetings' => 'Møter',
+  'Move down' => 'Flytt ned',
+  'Move up' => 'Flytt opp',
+  'Send as message' => 'Send som melding',
+  'Shift to other meeting' => 'Flytt til annet møte',
+);

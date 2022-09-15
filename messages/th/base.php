@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '<strong>ซ้ำ</strong> การประชุม',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>เปลี่ยน</strong> เข้าสู่วาระการประชุมใหม่',
+  'Adds a meeting manager to this space.' => 'เพิ่มผู้จัดการการประชุมในพื้นที่นี้',
+  'Agenda Entry' => 'รายการวาระ',
+  'Back to overview' => 'กลับไปที่ภาพรวม',
+  'Delete' => 'ลบ',
+  'Duration' => 'ความยาว',
+  'Duration in <strong>hh:mm</strong> format ' => 'ระยะเวลาในรูปแบบ <strong>hh:mm</strong>',
+  'Edit' => 'แก้ไข',
+  'Format has to be HOUR : MINUTE' => 'รูปแบบต้องเป็น HOUR : MINUTE',
+  'Info message has been sent.' => 'ส่งข้อความข้อมูลแล้ว',
+  'Meeting' => 'ประชุม',
+  'Meetings' => 'ประชุม',
+  'Move down' => 'ย้ายลง',
+  'Move up' => 'ขยับขึ้น',
+  'Send as message' => 'ส่งเป็นข้อความ',
+  'Shift to other meeting' => 'เปลี่ยนไปประชุมอื่น',
+);

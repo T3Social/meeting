@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '<strong>Διπλότυπη</strong> συνάντηση',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>Μεταφορά</strong> εγγραφής στην ημερήσια διάταξη της νέας συνάντηση',
+  'Adds a meeting manager to this space.' => 'Προσθέτει έναν συντονιστή συναντήσεων σε αυτό τον χώρο',
+  'Agenda Entry' => 'Εγγραφή στην ημερήσια διάταξη',
+  'Back to overview' => 'Επιστροφή στην επισκόπηση',
+  'Delete' => 'Διαγραφή',
+  'Duration' => 'Διάρκεια',
+  'Duration in <strong>hh:mm</strong> format ' => 'Διάρκεια σε μορφή <strong>ωω:λλ</strong>',
+  'Edit' => 'Επεξεργασία',
+  'Format has to be HOUR : MINUTE' => 'Η μορφή πρέπει να είναι ΩΡΑ : ΛΕΠΤΟ',
+  'Info message has been sent.' => 'Το ενημερωτικό μήνυμα έχει σταλεί',
+  'Meeting' => 'Συνάντηση',
+  'Meetings' => 'Συναντήσεις',
+  'Move down' => 'Μττακίνηση προς τα κάτω',
+  'Move up' => 'Μττακίνηση προς τα πάνω',
+  'Send as message' => 'Αποστολή ως μήνυμα',
+  'Shift to other meeting' => 'Μεταφορά σε άλλη συνάντηση',
+);

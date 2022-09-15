@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '<strong>Duplikuj</strong> spotkanie',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>Zmień</strong> wpis terminarza na nowe spotkanie',
+  'Adds a meeting manager to this space.' => 'Dodaje menadżera spotkań do tej strefy.',
+  'Agenda Entry' => 'Plan spotkania',
+  'Back to overview' => 'Powrót do przeglądu',
+  'Delete' => 'Usuń',
+  'Duration' => 'Czas trwania',
+  'Duration in <strong>hh:mm</strong> format ' => 'Czas trwania w formacie <strong>hh:mm</strong>',
+  'Edit' => 'Edytuj',
+  'Format has to be HOUR : MINUTE' => 'Musi być w formacie GODZINA : MINUTA',
+  'Info message has been sent.' => 'Wiadomość informacyjna została wysłana',
+  'Meeting' => 'Spotkanie',
+  'Meetings' => 'Spotkania',
+  'Move down' => 'Przesuń niżej',
+  'Move up' => 'Przesuń wyżej',
+  'Send as message' => 'Wyślij jako wiadomość',
+  'Shift to other meeting' => 'Przełącz na inne spotkanie',
+);

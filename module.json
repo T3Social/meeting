@@ -1,0 +1,20 @@
+{
+  "id": "meeting",
+  "version": "0.5.4",
+  "name": "Meetings",
+  "description": "“Meetings” is a complete meeting manager, which enables you to easily create meetings, define agendas, invite participants, minute the results and delegate tasks.",
+  "keywords": [
+    "meeting",
+    "agenda"
+  ],
+  "humhub": {
+    "minVersion": "1.8"
+  },
+  "homepage": "https://github.com/humhub/meeting-issues",
+  "screenshots": [
+    "assets/screen1.jpg",
+    "assets/screen2.jpg",
+    "assets/screen3.jpg",
+    "assets/screen4.jpg"
+  ]
+}

@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '<strong>Дублирай</strong> среща',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>Премести</strong> запис от дневния ред в нова среща',
+  'Adds a meeting manager to this space.' => 'Добавя ръководител на срещата към това пространство.',
+  'Agenda Entry' => 'Запис от дневния ред',
+  'Back to overview' => 'Обратно към преглед',
+  'Delete' => 'Изтрий',
+  'Duration' => 'Продължителност',
+  'Duration in <strong>hh:mm</strong> format ' => 'Продължителност в <strong>hh:mm</strong> формат',
+  'Edit' => 'Редактирай',
+  'Format has to be HOUR : MINUTE' => 'Форматът трябва да е часове:минути',
+  'Info message has been sent.' => 'Информационно съобщение беше изпратено.',
+  'Meeting' => 'Среща',
+  'Meetings' => 'Срещи',
+  'Move down' => 'Премести надолу',
+  'Move up' => 'Премести нагоре',
+  'Send as message' => 'Изпрати като съобщение',
+  'Shift to other meeting' => 'Премести в друга среща',
+);

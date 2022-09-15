@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '',
+  '<strong>Shift</strong> agenda entry to new meeting' => '',
+  'Adds a meeting manager to this space.' => '',
+  'Agenda Entry' => '',
+  'Back to overview' => '概要に戻る',
+  'Delete' => '削除',
+  'Duration' => '',
+  'Duration in <strong>hh:mm</strong> format ' => '',
+  'Edit' => '編集',
+  'Format has to be HOUR : MINUTE' => '',
+  'Info message has been sent.' => '',
+  'Meeting' => '',
+  'Meetings' => '',
+  'Move down' => '',
+  'Move up' => '',
+  'Send as message' => '',
+  'Shift to other meeting' => '',
+);

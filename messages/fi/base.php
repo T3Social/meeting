@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '<strong>Monista</strong> kokous',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>Vaihda</strong> esityslista uuteen kokoukseen',
+  'Adds a meeting manager to this space.' => 'Lisää kokousjohtaja tälle sivulle.',
+  'Agenda Entry' => 'Esityslista',
+  'Back to overview' => 'Takaisin',
+  'Delete' => 'Poista',
+  'Duration' => 'Kesto',
+  'Duration in <strong>hh:mm</strong> format ' => 'Kesto <strong>tt:mm</strong> muodossa',
+  'Edit' => 'Muokkaa',
+  'Format has to be HOUR : MINUTE' => 'Muoto on oltava TUNNIT:MINUUTIT',
+  'Info message has been sent.' => 'Ilmoitus on lähetetty.',
+  'Meeting' => 'Kokous',
+  'Meetings' => 'Kokoukset',
+  'Move down' => 'Siirry alas',
+  'Move up' => 'Siirry ylös',
+  'Send as message' => 'Lähetä viestinä',
+  'Shift to other meeting' => 'Siirry toiseen kokoukseen',
+);

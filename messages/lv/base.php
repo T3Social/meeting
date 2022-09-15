@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '',
+  '<strong>Shift</strong> agenda entry to new meeting' => '',
+  'Adds a meeting manager to this space.' => '',
+  'Agenda Entry' => '',
+  'Back to overview' => 'Atpakaļ uz pārskatu',
+  'Delete' => 'Dzēst',
+  'Duration' => '',
+  'Duration in <strong>hh:mm</strong> format ' => '',
+  'Edit' => 'Rediģēt',
+  'Format has to be HOUR : MINUTE' => '',
+  'Info message has been sent.' => '',
+  'Meeting' => '',
+  'Meetings' => '',
+  'Move down' => '',
+  'Move up' => '',
+  'Send as message' => '',
+  'Shift to other meeting' => '',
+);

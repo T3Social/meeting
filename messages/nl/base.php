@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '<strong>Dupliceer</strong> bijeenkomst',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>Verplaats</strong> onderwerp naar een nieuw bijeenkomst',
+  'Adds a meeting manager to this space.' => 'Voegt de vergadermanager toe aan deze ruimte',
+  'Agenda Entry' => 'Agenda-item',
+  'Back to overview' => 'Terug naar het overzicht',
+  'Delete' => 'Verwijder',
+  'Duration' => 'Duur',
+  'Duration in <strong>hh:mm</strong> format ' => 'Duur in <strong>uu:mm</strong> formaat ',
+  'Edit' => 'Bewerk',
+  'Format has to be HOUR : MINUTE' => 'De tijdindeling moet zijn UUR:MINUUT',
+  'Info message has been sent.' => 'Info-bericht is verzonden.',
+  'Meeting' => 'Bijeenkomst',
+  'Meetings' => 'Bijeenkomsten',
+  'Move down' => 'Naar beneden verplaatsen',
+  'Move up' => 'Naar boven verplaatsen',
+  'Send as message' => 'Stuur als bericht',
+  'Shift to other meeting' => 'Verschuif naar andere vergadering',
+);

@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => '<strong>Kopiera</strong> möte',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>Byt</strong> agendan till nytt möte',
+  'Adds a meeting manager to this space.' => 'Lägger till en möteshanterare i detta forum.',
+  'Agenda Entry' => 'Adenda',
+  'Back to overview' => 'Tillbaka till översikt',
+  'Delete' => 'Radera',
+  'Duration' => 'Längd',
+  'Duration in <strong>hh:mm</strong> format ' => 'Varaktighet i formatet <strong>tt:mm</strong>',
+  'Edit' => 'Ändra',
+  'Format has to be HOUR : MINUTE' => 'Format måste vara TIMMAR: MINUTER',
+  'Info message has been sent.' => 'Infomeddelande har skickats.',
+  'Meeting' => 'Möte',
+  'Meetings' => 'Möten',
+  'Move down' => 'Flytta ner',
+  'Move up' => 'Flytta upp',
+  'Send as message' => 'Skicka ett meddelande',
+  'Shift to other meeting' => 'Byt till annat möte',
+);

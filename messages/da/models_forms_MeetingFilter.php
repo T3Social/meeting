@@ -1,0 +1,7 @@
+<?php
+return array (
+  'Created by me' => 'Oprettet af mig',
+  'Filter meetings' => '',
+  'I\'m participating' => '',
+  'Only past meetings' => '',
+);

@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => 'A találkozó <strong>duplikátum</strong>',
+  '<strong>Shift</strong> agenda entry to new meeting' => 'A napirendi pontot <strong>vigye át</strong> új találkozóra',
+  'Adds a meeting manager to this space.' => 'Találkozó-kezelőt ad ehhez a közösséghez.',
+  'Agenda Entry' => 'Napirendi pont',
+  'Back to overview' => 'Vissza az áttekintéshez',
+  'Delete' => 'Törlés',
+  'Duration' => 'Időtartam',
+  'Duration in <strong>hh:mm</strong> format ' => 'Időtartam <strong>hh:mm</strong> formátumban',
+  'Edit' => 'Szerkesztés',
+  'Format has to be HOUR : MINUTE' => 'A kívánt formátum ÓRA : PERC',
+  'Info message has been sent.' => 'Tájékoztató üzenet elküldve',
+  'Meeting' => 'Találkozó',
+  'Meetings' => 'Találkozók',
+  'Move down' => 'Menjen le',
+  'Move up' => 'Menjen fel',
+  'Send as message' => 'Küldés üzenetként',
+  'Shift to other meeting' => 'Váltás másik találkozóra',
+);

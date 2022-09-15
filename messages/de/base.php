@@ -1,0 +1,20 @@
+<?php
+return array (
+  '<strong>Duplicate</strong> meeting' => 'Besprechung <strong>kopieren</strong>',
+  '<strong>Shift</strong> agenda entry to new meeting' => '<strong>Verschiebe</strong> Agenda-Eintrag in neue Besprechung',
+  'Adds a meeting manager to this space.' => 'Fügt diesem Space einen Besprechungs-Manager hinzu.',
+  'Agenda Entry' => 'Agenda-Eintrag',
+  'Back to overview' => 'Zurück zur Übersicht',
+  'Delete' => 'Löschen',
+  'Duration' => 'Dauer',
+  'Duration in <strong>hh:mm</strong> format ' => 'Dauer im <strong>ss:mm</strong> Format',
+  'Edit' => 'Bearbeiten',
+  'Format has to be HOUR : MINUTE' => '@@Format muss HH:MM entsprechen@@',
+  'Info message has been sent.' => 'Info-Nachricht wurde gesendet.',
+  'Meeting' => 'Besprechung',
+  'Meetings' => 'Besprechungen',
+  'Move down' => 'Nach unten verschieben',
+  'Move up' => 'Nach oben verschieben',
+  'Send as message' => 'Als Nachricht versenden',
+  'Shift to other meeting' => 'Anderer Besprechung zuordnen',
+);
